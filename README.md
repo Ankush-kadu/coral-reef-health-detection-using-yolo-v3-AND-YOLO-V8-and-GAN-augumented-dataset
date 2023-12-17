@@ -8,7 +8,7 @@ Motivation: Coral reefs are some of the most diverse ecosystems in the world and
 
 Scope:
 
-To train a model to increase the size of the dataset.
+To train a model to increase the size of the dataset using GAN
 
 To select a appropriate algorithm for object detection.
 
