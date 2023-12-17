@@ -13,14 +13,24 @@ To train a model to increase the size of the dataset.
 To select a appropriate algorithm for object detection.
 
 To classify the corals as healthy and bleached.
-![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/05ce9a52-a7d9-4d96-ae13-5e7d68d49468)
+
+
+
+GAN architecture
+
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/32d2588b-1ddf-4b6a-ba56-c98d71561dc2)
+
+
+GAN results 
+
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/26ede6ca-e3c5-489c-b832-f1282b265a00)
 
 
 
 
 
-
-
+YOLO V3 architecture
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/7091d25a-d550-452f-8c64-1258c5be6a5d)
 
 
 
