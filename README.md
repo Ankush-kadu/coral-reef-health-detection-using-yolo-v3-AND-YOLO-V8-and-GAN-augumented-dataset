@@ -22,6 +22,8 @@ GAN architecture
 
 
 GAN results 
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/c2a735e2-8b9d-460f-b515-833966d54b45)
+
 
 ![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/26ede6ca-e3c5-489c-b832-f1282b265a00)
 
