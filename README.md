@@ -22,10 +22,10 @@ GAN architecture
 
 
 GAN results 
-![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/c2a735e2-8b9d-460f-b515-833966d54b45)
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/8f14cd8f-129d-43cb-bed7-873b2c895ee3)
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/71d86b48-6ee9-4261-bf27-5643aaa11535)
 
 
-![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/26ede6ca-e3c5-489c-b832-f1282b265a00)
 
 
 
@@ -33,6 +33,14 @@ GAN results
 
 YOLO V3 architecture
 ![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/7091d25a-d550-452f-8c64-1258c5be6a5d)
+
+
+YOLO V8 ARCHITECTURE AND RESELTS
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/2f65823c-2721-44bc-980b-7d3095c47527)
+
+
+RESULTS
+![image](https://github.com/Ankush-kadu/coral-reef-health-detection-using-yolo-v3-and-GAN-augumented-dataset/assets/107274024/8998ec00-7f83-464b-bcfb-932f9b2d52c5)
 
 
 
